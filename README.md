@@ -6,6 +6,9 @@
 
 Gemini 3.5 Flash 的核心定位，是将前沿级（Frontier）智能与 Flash 系列的效率优势合二为一。它在 Terminal-Bench 2.1、MCP Atlas、Finance Agent v2 等编程与 Agent 类 benchmark 上全面超越上代 Gemini 3.1 Pro，同时输出速度达到同级前沿模型的约 4 倍，在 Antigravity 中更是实现了高达 12 倍的速度提升。更令人惊喜的是，其 API 定价较 3.1 Pro 降低约 40%，真正做到了"性能更强、价格更低"。
 
+Gemini 中文版：[https://www.gemini-cnblogs.com](https://www.gemini-cnblogs.com)
+Gemini官网入口：[查看Gemini官网入口]([https://www.gemini-cnblogs.com](https://www.gemini-cnblogs.com/gemini/model/google-gemini-3-0-official-cn-entrance-guide.html))
+
 ---
 
 ## 目录
